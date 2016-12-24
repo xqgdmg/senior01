@@ -1,0 +1,6 @@
+[
+	{"name":"ThinkPad X250", "price":5999.00, "detail" : "i3-5010U 4G 500GB Win7"},
+	{"name":"Apple MacBook Air 13.3", "price":6988.00, "detail" : "Core i5 4GB/128GB SSD MJVE2CH/A"},
+	{"name":"Alienware ALW15E-3718", "price":159999, "detail" : "15.6 i7 Win10"}
+
+]
